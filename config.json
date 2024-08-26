@@ -1,0 +1,6 @@
+{
+    "token": "token",
+    "channelName": "nome do canal",
+    "everyoneMsg": "conteudo da mensagem de spam",
+    "prefix": "prefixo"
+}
